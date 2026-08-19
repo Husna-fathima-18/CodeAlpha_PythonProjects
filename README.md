@@ -1,5 +1,3 @@
-# CodeAlpha_PythonProjects
-
 # CodeAlpha Python Programming Projects
 
 ## 📌 Overview
